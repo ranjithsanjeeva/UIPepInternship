@@ -47,3 +47,11 @@ function greet(name2,lastName){
 greet('Arjun');
 greet('Bheem');
 greet('Tony','stark');
+
+//Anonymus function
+
+let sayBye = function(){
+    console.log("Bye");
+}
+
+sayBye();
