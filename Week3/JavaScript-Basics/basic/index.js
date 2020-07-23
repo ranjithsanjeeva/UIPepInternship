@@ -55,3 +55,11 @@ let sayBye = function(){
 }
 
 sayBye();
+
+
+//for-each
+let animal = ["cat","dog","lion","tiger"];
+function log(i,j){
+    console.log(i,j);
+}
+animal.forEach(log);
