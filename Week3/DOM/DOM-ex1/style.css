@@ -1,14 +1,7 @@
 .testingIt {
     text-decoration-line: line-through;
   }
-  
-  .deleteButton {
-    background-color: #a0829b;
-    color: #fff;
-    border-radius: 30px
-    margin: 20px;
-  }
-  
+ 
   .done {
     text-decoration: line-through #ff3c3c;
   }
