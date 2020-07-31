@@ -16,6 +16,8 @@ c.lineTo(400,50);
 c.lineTo(600,400);
 c.strokeStyle =  "red";
 c.stroke();
+
+
 for(let i=0;i<200;i++){
     let x=Math.random()*window.innerWidth;
     let y=Math.random()*window.innerHeight;
